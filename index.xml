@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zabava</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="babkiweb1"/>
   <readme>
     <ru>1ae55f0dc787d47de7fc7807407d5447c36d3f24c53022527939985a323ee296</ru>
@@ -40,16 +40,16 @@
     </notes>
   </exercise>
   <exercise number="3">
-    <scale>chromaticmajor</scale>
-    <bpm>147</bpm>
-    <lowestNote>18</lowestNote>
+    <scale>minor</scale>
+    <bpm>76</bpm>
+    <lowestNote>5</lowestNote>
     <tonalities>1</tonalities>
-    <video name="3t.mp4" size="1175694" type="video/mp4" volume="0.5">a537ba96dd43a0bd93a86285ae5425c7dc9e9cd783549363eac70f939fa92fd1</video>
+    <video name="3t.mp4" size="1175694" type="video/mp4" volume="0.15">a537ba96dd43a0bd93a86285ae5425c7dc9e9cd783549363eac70f939fa92fd1</video>
     <notes>
-      <note number="1" values="188" ticks="42" durationTicks="40" ppq="96" velocity="0.843"/>
-      <note number="2" values="188" ticks="96" durationTicks="38" ppq="96" velocity="0.906"/>
-      <note number="3" values="978" ticks="141" durationTicks="45" ppq="96" velocity="0.866"/>
-      <note number="4" values="978" ticks="194" durationTicks="43" ppq="96" velocity="0.913"/>
+      <note number="1" values="6" ticks="42" durationTicks="40" ppq="96" velocity="0.843"/>
+      <note number="2" values="18" ticks="94" durationTicks="38" ppq="96" velocity="0.906"/>
+      <note number="3" values="48" ticks="138" durationTicks="45" ppq="96" velocity="0.866"/>
+      <note number="4" values="38" ticks="194" durationTicks="49" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="4">
