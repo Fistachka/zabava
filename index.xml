@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>zabava</repo>
-  <version>v1.0.11</version>
+  <version>v1.0.12</version>
   <next number="1" owner="Fistachka" repo="babkiweb1"/>
   <readme>
     <ru>ff40681039d30496d9f55e73c0cd4706bd84aaf8b500def052d1342d9c689ded</ru>
@@ -29,14 +29,14 @@
     <tonalities>1</tonalities>
     <video name="2t.mp4" size="2043449" type="video/mp4" volume="0.5">b805019e6dd28bf1aab6ee6a5c45910952a9f1312f8630b690820e11d7668d3d</video>
     <notes>
-      <note number="1" values="58" ticks="96" durationTicks="37" ppq="96" velocity="0.843"/>
-      <note number="2" values="68" ticks="144" durationTicks="45" ppq="96" velocity="0.906"/>
-      <note number="3" values="78" ticks="194" durationTicks="35" ppq="96" velocity="0.858"/>
-      <note number="4" values="68" ticks="240" durationTicks="55" ppq="96" velocity="0.906"/>
-      <note number="5" values="58" ticks="289" durationTicks="37" ppq="96" velocity="0.906"/>
-      <note number="6" values="68" ticks="337" durationTicks="36" ppq="96" velocity="0.906"/>
-      <note number="7" values="48" ticks="386" durationTicks="39" ppq="96" velocity="0.906"/>
-      <note number="8" values="48" ticks="434" durationTicks="54" ppq="96" velocity="0.906"/>
+      <note number="1" values="58" ticks="108" durationTicks="37" ppq="96" velocity="0.843"/>
+      <note number="2" values="68" ticks="156" durationTicks="45" ppq="96" velocity="0.906"/>
+      <note number="3" values="78" ticks="206" durationTicks="35" ppq="96" velocity="0.858"/>
+      <note number="4" values="68" ticks="252" durationTicks="55" ppq="96" velocity="0.906"/>
+      <note number="5" values="58" ticks="301" durationTicks="37" ppq="96" velocity="0.906"/>
+      <note number="6" values="68" ticks="349" durationTicks="36" ppq="96" velocity="0.906"/>
+      <note number="7" values="48" ticks="398" durationTicks="39" ppq="96" velocity="0.906"/>
+      <note number="8" values="48" ticks="446" durationTicks="54" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="3">
