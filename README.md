@@ -1,6 +1,6 @@
 <span id="ru"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
 
-![3](https://github.com/user-attachments/assets/32340491-8a75-47f4-a7db-43b21929dc01)
+![3](https://github.com/user-attachments/assets/2575c149-c389-47b8-bd5e-37fae50a5251)
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/mLWzaDiKy0Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
