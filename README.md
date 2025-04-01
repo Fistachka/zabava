@@ -22,3 +22,4 @@ Po raschyotu nado zamuzh vyhodit'.<br><br>
 
 ![3](https://github.com/user-attachments/assets/32340491-8a75-47f4-a7db-43b21929dc01)
 
+![2](https://github.com/user-attachments/assets/ff6f1ea9-37d6-4457-9b49-874d8a8c528c)
